@@ -18,15 +18,15 @@
 
 # Core services
 
-# Discove![ServiceDiscovery](https://github.com/dhanushka365/SchoolEase/assets/66137046/457d85b7-5002-4d0c-a090-38b26b219eb7)
-ry Server
+# Discovery Server![ServiceDiscovery](https://github.com/dhanushka365/SchoolEase/assets/66137046/457d85b7-5002-4d0c-a090-38b26b219eb7)
+
 
 # API Gateway
 
 
-#  User Interface
+# User Interface
 
 # Deployment
 
 
-# Deployment
+# References

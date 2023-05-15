@@ -31,7 +31,9 @@
 
 # User Interface
 1. [x] Studen Microservice URIs
+* #### Student Login
 ![student login](https://github.com/dhanushka365/SchoolEase/assets/66137046/6bffb2c0-8c19-4734-b166-55b0287c6ed2)
+* #### Student Registration
 ![student registration](https://github.com/dhanushka365/SchoolEase/assets/66137046/22c13d7b-56c1-473d-acc3-b979e2158446)
 
 # Deployment

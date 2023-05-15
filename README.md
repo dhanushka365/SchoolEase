@@ -28,6 +28,7 @@
 
 # API Gateway
 
+![cloud gateway](https://github.com/dhanushka365/SchoolEase/assets/66137046/9b1f9a1e-8860-45e2-a342-d15ce525b50a)
 
 # User Interface
 1. [x] Studen Microservice URIs

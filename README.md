@@ -10,3 +10,14 @@
 4. [x] java -jar notification/target/notification-0.0.1-SNAPSHOT.jar
 5. [x] java -jar api-gateway/target/api-gateway-0.0.1-SNAPSHOT.jar
 6. [x] java -jar amqp/target/amqp-0.0.1-SNAPSHOT.jar
+
+# Architecture
+
+# Micro-services
+
+
+# Core services
+
+# Core services
+
+

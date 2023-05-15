@@ -33,11 +33,5 @@
 
 # Deployment
 <img width="367" alt="docker-hub" src="https://github.com/dhanushka365/SchoolEase/assets/66137046/df541d51-d1d3-4050-9353-7aa59794ddc9">
-# Technologies
-![rabbitmq_logo_icon_170812](https://github.com/dhanushka365/SchoolEase/assets/66137046/40e9cc7d-eb5d-453a-92f6-bd7aeb894983)
-![spring-boot-logo![ServiceDiscovery](https://github.com/dhanushka365/SchoolEase/assets/66137046/74810e90-5c4d-49ee-b68e-85cbd4d9e86c)
-](https://github.com/dhanushka365/SchoolEase/assets/66137046/dbd3d788-cd15-4810-bd60-d7210c0f5766)
-
-
 
 # References

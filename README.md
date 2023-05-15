@@ -32,6 +32,6 @@
 # User Interface
 
 # Deployment
-<i class="material-icons">account_circle</i>
+<i class="fab fa-html5"></i>
 
 # References

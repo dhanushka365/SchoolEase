@@ -32,7 +32,8 @@
 # User Interface
 
 # Deployment
-<img width="367" alt="docker-hub" src="https://github.com/dhanushka365/SchoolEase/assets/66137046/e2f12597-c602-4af6-aa6d-f36ab8a6e470">
+<img width="36![0-change-default-installation-path-docker-desktop-windows-10-banner-1](https://github.com/dhanushka365/SchoolEase/assets/66137046/20f26a8a-f3f7-4b0b-b0c1-9b4cb67d4eac)
+7" alt="docker-hub" src="https://github.com/dhanushka365/SchoolEase/assets/66137046/e2f12597-c602-4af6-aa6d-f36ab8a6e470">
 
 
 # References

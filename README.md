@@ -18,6 +18,14 @@
 
 # Core services
 
-# Core services
+# Discovery Server
+
+# API Gateway
 
 
+#  User Interface
+
+# Deployment
+
+
+# Deployment

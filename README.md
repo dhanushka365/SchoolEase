@@ -17,11 +17,12 @@
 * ##### The implementation methods used (Netflix software stack)
 
 # Core services
-|service | Age | 
-| ----   | --- | 
-| Joh    | 30  | 
-| Jane   | 25  | 
-
+|service                       | Description                                                                            | 
+| ---------------------------- | -------------------------------------------------------------------------------------- | 
+| Student Microservice         | 30                                                                                     | 
+| Teacher Microservice         | 25                                                                                     | 
+| Course Microservice          | 25                                                                                     | 
+| Notification MicroService    | 25                                                                                     | 
 # Discovery Server![ServiceDiscovery](https://github.com/dhanushka365/SchoolEase/assets/66137046/457d85b7-5002-4d0c-a090-38b26b219eb7)
 
 

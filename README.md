@@ -41,4 +41,4 @@
 <img width="367" alt="docker-hub" src="https://github.com/dhanushka365/SchoolEase/assets/66137046/df541d51-d1d3-4050-9353-7aa59794ddc9">
 
 # References
-. ## https://docs.spring.io/spring-framework/reference/
+## https://docs.spring.io/spring-framework/reference/

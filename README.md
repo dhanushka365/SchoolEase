@@ -14,7 +14,7 @@
 # Architecture
 
 # Micro-services
-
+* ##### The implementation methods used (Netflix software stack)
 
 # Core services
 

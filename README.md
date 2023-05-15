@@ -32,6 +32,7 @@
 # User Interface
 
 # Deployment
-<i class="fab fa-html5"></i>
+<img width="367" alt="docker-hub" src="https://github.com/dhanushka365/SchoolEase/assets/66137046/e2f12597-c602-4af6-aa6d-f36ab8a6e470">
+
 
 # References

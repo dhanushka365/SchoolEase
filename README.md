@@ -9,6 +9,7 @@
 3. [x] Therefore we have designed and implemented a school management system through microservices architecture, which allows for the creation of smaller, independent services that can communicate with each other to provide scalable and efficient cohesive system.
 
 # Architecture
+![230343651-f67a5054-fef5-444a-9b68-d45586fa3758](https://github.com/dhanushka365/SchoolEase/assets/66137046/62254caf-c68f-4fc3-a111-3058f5e8b8a5)
 
 # Micro-services
 * ##### The implementation methods used (Netflix software stack)

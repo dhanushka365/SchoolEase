@@ -38,6 +38,7 @@
 ![student registration](https://github.com/dhanushka365/SchoolEase/assets/66137046/22c13d7b-56c1-473d-acc3-b979e2158446)
 
 # Deployment
+- Docker Destop  and Docker hub was used in the project
 <img width="367" alt="docker-hub" src="https://github.com/dhanushka365/SchoolEase/assets/66137046/df541d51-d1d3-4050-9353-7aa59794ddc9">
 
 # References

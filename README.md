@@ -19,10 +19,10 @@
 # Core services
 |service                       | Description                                                                            | 
 | ---------------------------- | -------------------------------------------------------------------------------------- | 
-| Student Microservice         | 30                                                                                     | 
-| Teacher Microservice         | 25                                                                                     | 
-| Course Microservice          | 25                                                                                     | 
-| Notification MicroService    | 25                                                                                     | 
+| Student Microservice         | Student CREATE DELETE UPDATE INSERT                                                    | 
+| Teacher Microservice         | Teacher CREATE DELETE UPDATE INSERT                                                    | 
+| Course Microservice          | Course CREATE DELETE UPDATE INSERT                                                     | 
+| Notification MicroService    | Notification CREATE DELETE                                                             | 
 # Discovery Server![ServiceDiscovery](https://github.com/dhanushka365/SchoolEase/assets/66137046/457d85b7-5002-4d0c-a090-38b26b219eb7)
 
 

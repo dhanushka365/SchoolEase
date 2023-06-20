@@ -22,12 +22,13 @@
 | Notification MicroService    | Notification CREATE DELETE                                                             | 
 
 # Utility services
-|service                       | Description                                                                            | 
-| ---------------------------- | -------------------------------------------------------------------------------------- | 
-| Gateway Microservice         | Student CREATE DELETE UPDATE INSERT                                                    | 
-| Zipkin Microservice          | Teacher CREATE DELETE UPDATE INSERT                                                    | 
-| RabitMQ Microservice         | Course CREATE DELETE UPDATE INSERT                                                     | 
-| Service Discovery            | Notification CREATE DELETE                                                             | 
+|service                       | Description                                                                                                                                                                 | 
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| Gateway Microservice         | A gateway microservice acts as an entry point for client requests, routing them to appropriate services within a system.                                                    | 
+| Zipkin Microservice          | Zipkin is a distributed tracing system used to monitor and troubleshoot microservices-based architectures by tracing requests as they flow through multiple services.       | 
+| RabitMQ Microservice         | RabbitMQ is a message broker that enables asynchronous communication between microservices, allowing them to send and receive messages reliably and efficiently.            | 
+| Service Discovery            | Service discovery is a mechanism that allows microservices to locate and communicate with each other dynamically without hard-coding their network locations,               |
+|                              |   enabling scalability and flexibility in distributed systems.                                                                                                             | 
 
 # Discovery Server![ServiceDiscovery](https://github.com/dhanushka365/SchoolEase/assets/66137046/457d85b7-5002-4d0c-a090-38b26b219eb7)
 

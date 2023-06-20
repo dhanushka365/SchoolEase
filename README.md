@@ -4,12 +4,9 @@
 [School Management System (3).pdf](https://github.com/dhanushka365/SchoolEase/files/11475123/School.Management.System.3.pdf)
 
 # Introduction
-1. [x] java -jar student/target/student-0.0.1-SNAPSHOT.jar
-2. [x] java -jar eureka-server/target/eureka-server-0.0.1-SNAPSHOT.jar
-3. [x] java -jar fraud/target/fraud-0.0.1-SNAPSHOT.jar
-4. [x] java -jar notification/target/notification-0.0.1-SNAPSHOT.jar
-5. [x] java -jar api-gateway/target/api-gateway-0.0.1-SNAPSHOT.jar
-6. [x] java -jar amqp/target/amqp-0.0.1-SNAPSHOT.jar
+1. [x] The effective management of schools and educational institutions is critical for ensuring student success and improving academic outcomes.
+2. [x] To achieve this, a school management system can provide a range of features to support administrative tasks, enhance teaching and learning processes, and promote communication between teachers, students, and parents.
+3. [x] Therefore we have designed and implemented a school management system through microservices architecture, which allows for the creation of smaller, independent services that can communicate with each other to provide scalable and efficient cohesive system.
 
 # Architecture
 

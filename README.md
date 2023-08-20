@@ -52,3 +52,6 @@
 ## https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 
 # Related Repositories
+- https://github.com/dhanushka365/SE-Backend-Microservices-test1
+- https://github.com/dhanushka365/SchoolEase-backend-microservices
+- https://github.com/dhanushka365/SE-Backend-Microservices
